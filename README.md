@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @slogive
+- 👀 I’m interested in PWA Apps
+- 🌱 I’m currently learning React and a framework called Nextjs, Nodejs too.
