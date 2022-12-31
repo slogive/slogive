@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @slogive
-- 👀 I’m interested in PWA Apps
-- 🌱 I’m currently learning React and a framework called Nextjs, Nodejs too.
+- 👋 Hi, I'm @slogive
+- 👀 I develop APIs with Express.js and APPs with React.js/Next.js
